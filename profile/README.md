@@ -4,11 +4,6 @@
 
 **Engineers building things together.**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,opencv,linux,git,github&theme=dark">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,linux,git,github&theme=light" alt="Python, PyTorch, OpenCV, Linux, Git and GitHub">
-</picture>
-
 </div>
 
 We are a small team of four who learn engineering by building real projects together. We plan in weekly cycles, review every change before it merges and follow one rule above the others: whoever merges code can explain every line of it.
@@ -34,3 +29,27 @@ Our approach uses the ground itself. The drone measures the shape of the terrain
 ## Get in touch
 
 We are a closed team and do not take outside contributions while development is private. To reach us, contact any member through their GitHub profile.
+
+## We build with
+
+<div align="center">
+
+### Language and libraries
+
+| <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="60"> |
+| :---: | :---: | :---: |
+| **Python** | **PyTorch** | **OpenCV** |
+
+### Drone
+
+| <img src="https://ardupilot.org/apple-icon.png" alt="ArduPilot" width="60"> |
+| :---: |
+| **ArduPilot** |
+
+### Tools
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60"> | <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60"> |
+| :---: | :---: | :---: |
+| **Linux** | **Git** | **GitHub** |
+
+</div>
