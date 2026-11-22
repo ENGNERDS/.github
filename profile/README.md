@@ -36,7 +36,7 @@ We are a closed team and do not take outside contributions while development is 
 
 ### Language and libraries
 
-| <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="60"> |
+| <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@1a8656741692dfe08effc82600f4d0d4bb87d420/static/python-icon.svg" alt="Python" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="60"> |
 | :---: | :---: | :---: |
 | **Python** | **PyTorch** | **OpenCV** |
 
@@ -48,7 +48,7 @@ We are a closed team and do not take outside contributions while development is 
 
 ### Tools
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60"> | <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="60"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60"> | <img src="https://cdn.jsdelivr.net/gh/qkrdmstlr3/techstack-generator@1a8656741692dfe08effc82600f4d0d4bb87d420/static/github-icon.svg" alt="GitHub" width="60"> |
 | :---: | :---: | :---: |
 | **Linux** | **Git** | **GitHub** |
 
